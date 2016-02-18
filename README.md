@@ -1,0 +1,1 @@
+This is the example application from chapter 13 of Dave Thomas' "Programming Elixir"
